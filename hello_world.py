@@ -1,1 +1,1 @@
-print("Hello, world! This is the release branch.")
+print("Hello from release")
